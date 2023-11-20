@@ -44,7 +44,7 @@ branch aulas/aula-02
 - Entendendo o recurso de Assets do XCode
 - Criando headerView
 
-<img src="images-readme/aula-03.png" width="200" height="200">
+<img src="images-readme/aula-03.png" width="200" height="500">
 
 branch aulas/aula-03
 
