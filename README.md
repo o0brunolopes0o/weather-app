@@ -43,7 +43,9 @@ branch aulas/aula-02
 - Construindo componentes customizados
 - Entendendo o recurso de Assets do XCode
 - Criando headerView
+
 ![](images-readme/aula-03.png)
+
 
 branch aulas/aula-03
 
