@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         label.font = UIFont.systemFont(ofSize: 20)
         label.text = "São Paulo"
         label.textAlignment = .center
-        label.textColor = UIColor(named: "primaryColor")
+        label.textColor = UIColor(named: "primeColor")
         return label
     }()
     
@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         label.font = UIFont.systemFont(ofSize: 70, weight: .bold)
         label.text = "25°C"
         label.textAlignment = .left
-        label.textColor = UIColor(named: "primaryColor")
+        label.textColor = UIColor(named: "primeColor")
         return label
     }()
     
