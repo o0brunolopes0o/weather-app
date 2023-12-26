@@ -1,4 +1,4 @@
-# weather-app
+# weather-forecast-app
 
 Aplicativo iOS de previsão de tempo integrado com a API OpenWeather. Esse projeto faz parte do curso de introdução ao desenvolvimento iOS do canal Attekita Dev em parceria com a Backfront Academy.
 
@@ -43,8 +43,7 @@ branch aulas/aula-02
 - Construindo componentes customizados
 - Entendendo o recurso de Assets do XCode
 - Criando headerView
-
-<img src="images-readme/aula-03.png" width="200" height="500">
+![](images-readme/aula-03.png)
 
 branch aulas/aula-03
 
