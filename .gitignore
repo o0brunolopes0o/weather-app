@@ -90,3 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 weather-app/weather-app/Assets.xcassets/primeColor.colorset/Contents.json
 weather-app/weather-app.xcodeproj/project.xcworkspace/xcuserdata/bruno.xcuserdatad/UserInterfaceState.xcuserstate
+weather-app/weather-app.xcodeproj/project.xcworkspace/xcuserdata/bruno.xcuserdatad/UserInterfaceState.xcuserstate
+.vscode/settings.json
