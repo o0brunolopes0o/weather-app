@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    static let firstColor = UIColor(named: "firstColor")
     static let contrastColor = UIColor(named: "contrastColor")
     static let softGray = UIColor(named: "softGray")
 
@@ -24,7 +25,7 @@ class ViewController: UIViewController {
     private lazy var headerView: UIView = {
         let view = UIView()
         view.translatesAutoresizingMaskIntoConstraints = false
-        view.backgroundColor = ViewController.contrastColor
+        view.backgroundColor = .white
         view.layer.cornerRadius = 20
         return view
     }()
@@ -35,7 +36,7 @@ class ViewController: UIViewController {
         label.font = UIFont.systemFont(ofSize: 20)
         label.text = "São Paulo"
         label.textAlignment = .center
-        label.textColor = UIColor(named: "primeColor")
+        label.textColor = ViewController.firstColor
         return label
     }()
     
@@ -45,7 +46,7 @@ class ViewController: UIViewController {
         label.font = UIFont.systemFont(ofSize: 70, weight: .bold)
         label.text = "25°C"
         label.textAlignment = .left
-        label.textColor = UIColor(named: "primeColor")
+        label.textColor = ViewController.firstColor
         return label
     }()
     
