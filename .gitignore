@@ -93,3 +93,5 @@ weather-app/weather-app.xcodeproj/project.xcworkspace/xcuserdata/bruno.xcuserdat
 weather-app/weather-app.xcodeproj/project.xcworkspace/xcuserdata/bruno.xcuserdatad/UserInterfaceState.xcuserstate
 .vscode/settings.json
 *.xcuserstate
+weather-app/.DS_Store
+weather-app/weather-app/Assets.xcassets/softGray.colorset/Contents.json
